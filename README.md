@@ -1,13 +1,20 @@
-# Calculadora - Calculator
+🧮 Calculator
+Aplicativo calculadora intuitivo e funcional, que pode variar desde uma versão básica feita em JavaScript até uma aplicação multiplataforma com interface moderna. Ideal para praticar lógica, UI e testes.
 
-Nesse projeto eu desenvolvi uma Calculadora básica, porém funcional para treinar minhas habilidades front-end. Usei as seguintes tecnologias:
+⚙️ Funcionalidades
 
-- <img align="center" width="20px" heigth="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+- Operações matemáticas básicas: adição, subtração, multiplicação e divisão
+
+- Interface limpa com botões numéricos e operacionais
+
+- Tratamento de erros (ex: divisão por zero)
+
+- Feedback visual para os cálculos e resultados
+
+🧰 Tecnologias usadas
+
+- Frontend: HTML, CSS, JavaScript puro
+- Estilização: CSS tradicional
 
 
-- <img align="center" width="20px" heigth="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-
-- <img align="center" width="20px" heigth="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-          
-[Calculadora] (https://lucasfelipedonascimento.github.io/calculator/)
